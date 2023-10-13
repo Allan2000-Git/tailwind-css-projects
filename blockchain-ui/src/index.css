@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --primary-blue:#f89b29;
+  --primary-purple:#ff0f7b;
+}
+
+@layer base{
+  h1{
+    @apply px-5 text-4xl bg-gradient-to-l from-[var(--primary-blue)] to-[var(--primary-purple)] bg-clip-text text-transparent font-extrabold
+  }
+
+  li{
+    @apply p-5 hover:text-[var(--primary-purple)] cursor-pointer transition-all ease-in-out
+  }
+
+  span{
+    @apply text-[var(--primary-blue)]
+  }
+
+  .nav-btn{
+    @apply bg-gradient-to-r from-[var(--primary-blue)] to-[var(--primary-purple)]
+}
+
+}
