@@ -1,6 +1,6 @@
 # Netflix Landing Page Clone
 
-<img width="619" alt="Logos-Readability-Netflix-logo" src="https://github.com/Allan2000-Git/tailwind-css-projects/assets/54631653/2e2f5f07-770e-424c-905d-9961a12dbac2">
+<img width="619" alt="Logos-Readability-Netflix-logo" src="https://github.com/Allan2000-Git/tailwind-css-projects/assets/54631653/d74f940a-f5c8-4dc4-bab2-dc688b2df534">
 
 This repository contains a clone of the Netflix landing page created using Tailwind CSS. The project aims to showcase the power and flexibility of Tailwind CSS in building modern and responsive user interfaces.
 
